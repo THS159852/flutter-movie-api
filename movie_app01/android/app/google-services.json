@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311708653376",
+    "project_id": "account-firebase-e9eb5",
+    "storage_bucket": "account-firebase-e9eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311708653376:android:0ec9978453889517f60ca5",
+        "android_client_info": {
+          "package_name": "login_firebase_ts_amovies.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311708653376-4ingsg6kj7mte8kjvfssbpogf1hpnsti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBaHmKou15AhfNtuZ-M2GWTKqcIpajbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311708653376-4ingsg6kj7mte8kjvfssbpogf1hpnsti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
